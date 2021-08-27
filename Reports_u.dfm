@@ -9,7 +9,7 @@ object Form1: TForm1
   Font.Color = clWindowText
   Font.Height = -11
   Font.Name = 'Tahoma'
-  Font.Style = []
+  Font.Style = [fsbold]
   OldCreateOrder = False
   OnCreate = FormCreate
   PixelsPerInch = 96
