@@ -1,0 +1,2 @@
+A 8x6 array stores the values of a company's sales per month. This array is used to determine the average of all departments per 
+month to see which department has overperformed.
